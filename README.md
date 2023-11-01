@@ -8,9 +8,9 @@ In SSMS, I would create a database named "Student Record" and design tables for 
 
 _**Disclaimer**_ ⚠️- _All data used for this record are hypothetical data generated and do not represent any company's data._
 
-## U.S SUPERSTORE
+## FLYHIGH INSTITUTE.. STUDENT RECORD
 The task will address the following 
-
+![](Screenshot)
 
 **Data Set**                                    |   **Overall Summary of the Data**             
 :----------------------------------------------:|:--------------------------------:
